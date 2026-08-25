@@ -1,0 +1,31 @@
+{
+  "headline": "S&P +0.17%, Brent Crude -4.0%, 10Y +5bp",
+  "fed_target": "Target range 3.50%\u20133.75%",
+  "watch": [
+    {
+      "when": "Wed 8:30 ET",
+      "what": "Q2 GDP, second estimate \u2014 last 1.5%",
+      "until": "2026-08-26"
+    },
+    {
+      "when": "Thu 8:30 ET",
+      "what": "PCE price index \u2014 core running 3.29%",
+      "until": "2026-08-27"
+    },
+    {
+      "when": "Thu 8:30 ET",
+      "what": "Initial jobless claims \u2014 last 206k",
+      "until": "2026-08-27"
+    },
+    {
+      "when": "Fri Sep 4",
+      "what": "August jobs report \u2014 July payrolls \u221223k",
+      "until": "2026-09-04"
+    },
+    {
+      "when": "Wed Sep 16",
+      "what": "FOMC decision \u2014 effective funds 3.63%",
+      "until": "2026-09-16"
+    }
+  ]
+}
