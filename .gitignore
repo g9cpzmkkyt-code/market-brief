@@ -3,3 +3,4 @@ fetch.log
 __pycache__/
 *.pyc
 public/
+.github/
